@@ -1,0 +1,11 @@
+.btn-success:hover {
+    animation-name: rubberBand;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+  .btn-warning:hover {
+    animation-name: tada ;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+  }
+  
